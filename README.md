@@ -1,5 +1,5 @@
 # Interactive Light Therapy
-This project utilizes the Arduino Uno R3 board, the Arduino IDE, Procesing, the ADX1335 sensor, the NodeMCU ESP8266 and some LED strips. 
+This project utilizes the Arduino Uno R3 board, the Arduino IDE, Processing, the ADX1335 sensor, the NodeMCU ESP8266 and some LED strips. 
 
 This project was created during extended confinement due to the COVID-19 pandemic. 
 My goal was to create a synthetic light source that would: 
