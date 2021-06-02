@@ -9,7 +9,7 @@ My goal was to create a synthetic light source that would:
 - Ease the side effects that occur during confinement and Seasonal Affective Disorder (SAD).
 
  ![light_rain_noon (1)](https://user-images.githubusercontent.com/56971054/120551301-dbe21d00-c3c3-11eb-9aeb-f849bc182a85.jpg)
-![light_off](https://user-images.githubusercontent.com/56971054/120551406-fddb9f80-c3c3-11eb-9850-7e94cb5b32d1.jpg)
+
 ![light_sunset](https://user-images.githubusercontent.com/56971054/120551412-fe743600-c3c3-11eb-96ca-9432e42a8edb.jpg)
 
 
