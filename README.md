@@ -3,18 +3,18 @@ This project utilizes the Arduino Uno R3 board, the Arduino IDE, Processing, the
 
 ![image](https://user-images.githubusercontent.com/56971054/126576711-17460607-84f3-4223-a0c7-87310c51a2b8.png) 
 
-Abstract
+<b>Abstract</b>
 
 It is 7 a.m., Eastern Time. You wake up. You look through your window. It is still dark outside, but you can discern last night's snowfall that coats your neighbor's trees. You then check the current temperature on your phone. Minus 32 degrees Celsius. Nice, you will stay inside today. It is 7 a.m., but a day has now passed. You have work. You check outside your window. Still dark. You come back home after work around 6 p.m. The sun is already gone. Wherever you go, it seems like you are constantly chasing the sun, but can never catch it. You are always a few minutes late. As winter progresses, your mood sours. You call it "winter's blues".
 
-The Idea
+<b>The Idea</b>
 
 Along with the winter of 2021 came another challenge: COVID-19. Like many students, I spent 99.9% of my time locked inside an apartment bedroom. Since I couldn't tie down the sun and keep it all to myself, I had to look elsewhere. In other words, I had to create my own sun. I thus decided that the best way to alleviate the symptoms of seasonal affective disorder for someone that doesn't have many windows was simply to create them. This solution would directly fix my problem and could possibly help anyone in the same situation. 
 
 ![image](https://user-images.githubusercontent.com/56971054/126576905-216bc111-6c90-472f-bd5e-ee076d764c1f.png)
 
 
-The initial model
+<b>The initial model</b>
 
 Apart from staying inside, quarantine had also limited my physical activity. By limited, I mean obliterated into non-existence. Exercise, along with light therapy, go hand in hand to alleviate winter's lack of sunlight.
 I decided to build the following: 
@@ -26,7 +26,7 @@ I decided to build the following:
 ![image](https://user-images.githubusercontent.com/56971054/126576957-c9bc71a5-3be5-4b11-a786-3d61e0af0e8f.png)
 
 
-The Final Prototype
+<b>The Final Prototype</b>
 
 1. The light source
 The "window" was built using 300 addressable LEDs, a wooden frame and a 12V battery. The lights are controlled using the AdaFruit FadeCandy driver and Processing. They move and change color depending on the time of the day, as well as sunset/sunrise times based on my position. The WeatherAPI is also used to determine the weather and influence the color of the lights. 
